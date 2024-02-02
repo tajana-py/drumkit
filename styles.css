@@ -2,6 +2,7 @@ body {
   text-align: center;
   background-color: #85778a;
   background-image: url("./images/background-img-blur-dark.png");
+  background-repeat: no-repeat;
 }
 
 h1 {
