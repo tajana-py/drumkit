@@ -1,2 +1,2 @@
 # drumkit
-ply the drums
+play the drums
